@@ -1,1 +1,7 @@
-Prueba del checkout 1
+Esta es la primera prueba de github platzi
+
+Alejo con 33 anios nacido en Colombia
+
+Hoy hablaremos de su historia
+
+PRUEBA 2
